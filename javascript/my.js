@@ -39,45 +39,45 @@ $(window).scroll(function () {
 
 
 
-$(".chronicals").click(function () {
+// $(".chronicals").click(function () {
 
-    $("html, body").animate({ scrollTop: 3900 }, 1000);
-    return false;
-});
-
-
-$(".locust").click(function () {
-
-    $("html, body").animate({ scrollTop: 2300 }, 1000);
-    return false;
-});
+//     $("html, body").animate({ scrollTop: 3900 }, 1000);
+//     return false;
+// });
 
 
-$(".covid, .papers").click(function () {
+// $(".locust").click(function () {
 
-    $("html, body").animate({ scrollTop: 2300 }, 1000);
-    return false;
-});
-
-$(".essay, .freshers, .justice, .scienceDay, .quiz, .reqrtmnt, .anti").click(function () {
-
-    $("html, body").animate({ scrollTop: "2500vh" }, 1000);
-    return false;
-});
+//     $("html, body").animate({ scrollTop: 2300 }, 1000);
+//     return false;
+// });
 
 
-$(".obstacle, .projector, .airplane").click(function () {
+// $(".covid, .papers").click(function () {
 
-    $("html, body").animate({ scrollTop: 3200 }, 1000);
-    return false;
-});
+//     $("html, body").animate({ scrollTop: 2300 }, 1000);
+//     return false;
+// });
+
+// $(".essay, .freshers, .justice, .scienceDay, .quiz, .reqrtmnt, .anti").click(function () {
+
+//     $("html, body").animate({ scrollTop: "2500vh" }, 1000);
+//     return false;
+// });
 
 
-$(".hs").click(function () {
+// $(".obstacle, .projector, .airplane").click(function () {
 
-    $("html, body").animate({ scrollTop: 4550 }, 1000);
-    return false;
-});
+//     $("html, body").animate({ scrollTop: 3200 }, 1000);
+//     return false;
+// });
+
+
+// $(".hs").click(function () {
+
+//     $("html, body").animate({ scrollTop: 4550 }, 1000);
+//     return false;
+// });
 
 
 
