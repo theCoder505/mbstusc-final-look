@@ -47,16 +47,30 @@ button:focus{
 }
 
 /* .logo img{
-    width: 60%; 
     height: 80vh;
 }
 
 @media screen and (max-width: 480px) {
-    .logo img{
-        width: 60%; 
-        height: 30vh;
+    .logo img{ 
+        height: 60vh;
+    }
+    .container {
+        width: 100%;
     }
   }  */
+
+
+  @media screen and (max-width: 800px) {
+    .navbar-dark .navbar-toggler {
+        color: rgba(255,255,255,.5);
+        border-color: rgba(255,255,255,.1);
+        margin-right: 30px;
+    }
+  }
+
+
+
+
 
 /*
 .bgImage{
