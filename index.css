@@ -345,7 +345,5 @@ color: red;
 
      .commiteeclass{
          float: center;
-        margin: auto;
-        width: 100%;
-        height: 90vh;
+        margin: auto!important;
      }
