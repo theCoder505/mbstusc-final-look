@@ -259,6 +259,7 @@ margin: auto;
 .comments{
     margin: auto;
     text-align: center;
+    display: none;
 }
 
 /*contact & signup*/
@@ -347,3 +348,25 @@ color: red;
          float: center;
         margin: auto!important;
      }
+
+
+     .signinput {
+        margin-top: 25px;
+        padding-left: 20px;
+        color: white;
+        background-color: #4f4b4ba3;
+        border-radius: 15px;
+        border: transparent;
+            border-bottom-color: transparent;
+            border-bottom-style: none;
+            border-bottom-width: medium;
+        border-bottom: 3px solid black;
+        border-top: 3px solid #bdb0b0;
+        border-left: 3px solid #b2bd65;
+        border-right: 3px solid #98d7cb;
+     }
+     .SN2 {
+        margin-top: 15px;
+        border-radius: 50px;
+        padding: 7px 25px;
+    }
