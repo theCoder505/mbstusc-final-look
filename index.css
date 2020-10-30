@@ -296,8 +296,10 @@ margin: auto;
 
 
 
-.contact-Holder {background-image: url(spacespace.jpeg); 
+.contact-Holder {
+    /* background-image: url(spacespace.jpeg);  */
     background-size: cover;
+    background-repeat: no-repeat;
     }
     .contact-Holder ul{list-style: none; margin-top: 4%;
     line-height: 1.5rem ; margin-left: 40% ;}
